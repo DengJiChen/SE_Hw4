@@ -3,6 +3,7 @@ import org.junit.Test;
 
 public class Q5_2_app_test {
 
+
     @Test
     public void testGradeA() {
         char result = Q5App.letterGrade(100);

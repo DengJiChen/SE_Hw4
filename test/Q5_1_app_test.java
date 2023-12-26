@@ -2,6 +2,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 public class Q5_1_app_test {
+
     @Test
     public void testGradeA() {
         char result = Q5App.letterGrade(95);
